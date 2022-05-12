@@ -1,7 +1,1 @@
-<!--  create the war -->
-<plugin>
-  <artifactId>maven-war-plugin</artifactId>
-  <configuration>
-    <webXml>src/main/webapp/WEB-INF/web.xml</webXml>
-  </configuration>
-</plugin>
+
