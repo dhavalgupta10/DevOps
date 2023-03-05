@@ -1,0 +1,44 @@
+.block {
+	background-image: url("images/diet.png");
+	display: block;
+	margin-left: 10px;
+	margin-top: -10px;
+	min-height: 900px;
+	height: auto;
+   	width: 100%;
+}
+.block img.resize: {
+	 height: auto;
+      width: auto;
+      margin-right: -10px; 
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+}
+.menu{
+	margin: 20px;
+  float: left;
+  background-color: white;
+  width: 200px;
+  height: 200px;
+  border: 5px solid grey;
+  border-radius: 10px;
+  padding: 5px;
+  padding-top: 0;
+}
+.menu:hover{
+background-color: grey;
+color:white;
+}
+.menu p
+{
+	font-family: verdana;
+	font-size: 16px;
+
+}
+.menu h3{
+	font-family: verdana;
+	text-decoration: underline;
+	font-size: 24px;
+	
+}
